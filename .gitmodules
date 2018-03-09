@@ -194,3 +194,11 @@
 	path = apertium-es-pt
 	url = git@github.com:apertium/apertium-es-pt.git
 	branch = master
+[submodule "apertium-mkd-bul"]
+	path = apertium-mkd-bul
+	url = git@github.com:apertium/apertium-mkd-bul.git
+	branch = master
+[submodule "apertium-mkd-eng"]
+	path = apertium-mkd-eng
+	url = git@github.com:apertium/apertium-mkd-eng.git
+	branch = master
