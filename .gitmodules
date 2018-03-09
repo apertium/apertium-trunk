@@ -126,10 +126,6 @@
 	path = apertium-swe-nor
 	url = git@github.com:apertium/apertium-swe-nor.git
 	branch = master
-[submodule "apertium-es-an"]
-	path = apertium-es-an
-	url = git@github.com:apertium/apertium-es-an.git
-	branch = master
 [submodule "apertium-hbs-mkd"]
 	path = apertium-hbs-mkd
 	url = git@github.com:apertium/apertium-hbs-mkd.git
