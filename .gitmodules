@@ -42,10 +42,6 @@
 	path = apertium-srd-ita
 	url = git@github.com:apertium/apertium-srd-ita.git
 	branch = master
-[submodule "apertium-es-it"]
-	path = apertium-es-it
-	url = git@github.com:apertium/apertium-es-it.git
-	branch = master
 [submodule "apertium-spa-ita"]
 	path = apertium-spa-ita
 	url = git@github.com:apertium/apertium-spa-ita.git
