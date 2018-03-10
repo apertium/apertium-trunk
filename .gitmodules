@@ -58,10 +58,6 @@
 	path = apertium-rus-ukr
 	url = git@github.com:apertium/apertium-rus-ukr.git
 	branch = master
-[submodule "apertium-cy-en"]
-	path = apertium-cy-en
-	url = git@github.com:apertium/apertium-cy-en.git
-	branch = master
 [submodule "apertium-pt-ca"]
 	path = apertium-pt-ca
 	url = git@github.com:apertium/apertium-pt-ca.git
@@ -201,4 +197,8 @@
 [submodule "apertium-afr-nld"]
 	path = apertium-afr-nld
 	url = git@github.com:apertium/apertium-afr-nld.git
+	branch = master
+[submodule "apertium-cym-eng"]
+	path = apertium-cym-eng
+	url = git@github.com:apertium/apertium-cym-eng.git
 	branch = master
