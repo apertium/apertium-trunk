@@ -194,3 +194,7 @@
 	path = apertium-cym-eng
 	url = git@github.com:apertium/apertium-cym-eng.git
 	branch = master
+[submodule "apertium-eng-cat"]
+	path = apertium-eng-cat
+	url = git@github.com:apertium/apertium-eng-cat.git
+	branch = master
