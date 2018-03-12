@@ -66,10 +66,6 @@
 	path = apertium-oc-es
 	url = git@github.com:apertium/apertium-oc-es.git
 	branch = master
-[submodule "apertium-en-ca"]
-	path = apertium-en-ca
-	url = git@github.com:apertium/apertium-en-ca.git
-	branch = master
 [submodule "apertium-bel-rus"]
 	path = apertium-bel-rus
 	url = git@github.com:apertium/apertium-bel-rus.git
