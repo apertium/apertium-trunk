@@ -198,3 +198,7 @@
 	path = apertium-cat-ita
 	url = git@github.com:apertium/apertium-cat-ita.git
 	branch = master
+[submodule "apertium-pol-szl"]
+	path = apertium-pol-szl
+	url = git@github.com:apertium/apertium-pol-szl.git
+	branch = master
