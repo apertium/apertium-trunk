@@ -202,3 +202,7 @@
 	path = apertium-eng-spa
 	url = git@github.com:apertium/apertium-eng-spa.git
 	branch = master
+[submodule "apertium-ron-cat"]
+	path = apertium-ron-cat
+	url = git@github.com:apertium/apertium-ron-cat.git
+	branch = master
