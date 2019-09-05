@@ -206,3 +206,7 @@
 	path = apertium-por-cat
 	url = git@github.com:apertium/apertium-por-cat.git
 	branch = master
+[submodule "apertium-oci-fra"]
+	path = apertium-oci-fra
+	url = git@github.com:apertium/apertium-oci-fra.git
+	branch = master
